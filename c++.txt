@@ -1,0 +1,13 @@
+compiler v/s interpreter
+
+1 it check error
+2 convert into machine code language
+3 execution
+
+but the compliler doesn't take responsibility of exicution 
+
+and c++ is compiler base language
+ java script always run inside browser
+ interpreter exicute program
+ it doesn't make exe file for java code
+ in interpreter language it run the code n time 
