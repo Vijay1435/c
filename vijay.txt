@@ -1,0 +1,23 @@
+programming paradigm
+
+monolithic programming
+modular
+object oriented
+aspect oriented
+
+modular
+
+sintex
+
+function 1()
+{
+body}
+function 2()
+{
+body
+}
+main()
+{
+function 1();
+function 2();
+}
