@@ -1,0 +1,22 @@
+object oriented
+
+class info
+{
+data 1;
+data 2;
+data 3;
+function1()
+{
+body
+}
+function2()
+{
+body
+}
+};
+main()
+{
+info 1;
+i.function1()
+i.function2()
+}
