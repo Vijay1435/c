@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 <<<<<<< HEAD
-cout<<"i love my india"::;
+cout<<"i love my india":;
 =======
 cout<<"i love my india"::;
 >>>>>>> master
