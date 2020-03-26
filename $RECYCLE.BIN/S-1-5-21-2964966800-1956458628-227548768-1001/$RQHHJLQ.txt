@@ -10,4 +10,7 @@ cout<<"i love my india"::;
 
  
  
- dfkhsdfhjdcnkdk:}
+ dfkhsdfhjdcnkdk:
+}
+
+return 0;
